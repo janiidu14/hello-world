@@ -1,2 +1,5 @@
 # hello-world
-My First Repository
+
+Hi Humans!
+
+Janidu here, I'm just addicted to coffee
